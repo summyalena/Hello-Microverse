@@ -9,6 +9,14 @@
 
 - Major languages: HTML, CSS 
 
+## Getting Started
+To get a local copy and running follow these simple example steps.
+Prerequisites
+Setup
+Install
+Usage
+Run tests
+Deployment
 ## Authors
 
 👤 **Author1**
